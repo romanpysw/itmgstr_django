@@ -2,7 +2,7 @@
 ## Роман Сысоев
 https://github.com/romanpysw
 
-Тестовое задание Python/django
+Проект Python/django
 
 ## Описание
 
