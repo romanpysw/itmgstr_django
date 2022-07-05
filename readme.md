@@ -1,5 +1,4 @@
 # TestTaksLib
-## Роман Сысоев
 https://github.com/romanpysw
 
 Проект Python/django
